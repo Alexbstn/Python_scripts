@@ -8,7 +8,7 @@ from streamlit import session_state as session
 
 
 
-list_of_names=['Andrew','Arjun','Bilal','Carol','Deven',\
+list_of_names=['Andrew','Arjun','Carol','Deven',\
     'Kelly','Steven','Michael','Oun','Roman','Ross','Stephanie','Suraqa','Thao','Tiago',]
 
 list_of_names2=['none','Andrew','Arjun','Bilal','Carol','Deven',\
