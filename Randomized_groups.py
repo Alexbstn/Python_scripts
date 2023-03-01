@@ -9,10 +9,10 @@ from streamlit import session_state as session
 
 
 list_of_names=['Andrew','Arjun','Carol','Deven',\
-   'Godzilla', 'Kelly','Steven','Michael','Oun','Roman','Ross','Stephanie','Suraqa','Thao','Tiago',]
+    'Kelly','Steven','Michael','Oun','Roman','Ross','Stephanie','Suraqa','Thao','Tiago',]
 
 list_of_names2=['none','Andrew','Arjun','Carol','Deven',\
-    'Godzilla','Kelly','Steven','Michael','Oun','Roman','Ross','Stephanie','Suraqa','Thao','Tiago',]
+    'Kelly','Steven','Michael','Oun','Roman','Ross','Stephanie','Suraqa','Thao','Tiago',]
 
 def group_selector(num_of_groups):
     random.shuffle(list_of_names)
